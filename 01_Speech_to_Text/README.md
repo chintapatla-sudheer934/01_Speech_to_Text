@@ -1,0 +1,1 @@
+# Real-Time Speech-to-Text Transcription\n\nWhisper transcribes a supplied audio file (not live microphone streaming). Install FFmpeg, install requirements, then run `python main.py`.\n
